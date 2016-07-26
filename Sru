@@ -1,0 +1,11 @@
+ new_feature
+root@ubuntu:~/track# git branch -r
+  origin/branch1
+root@ubuntu:~/track# git branch -a
+  branch1
+* branch2
+  branch3
+  master
+  new_feature
+  remotes/origin/branch1
+root@ubuntu:~/track# touch Sru
