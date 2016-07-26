@@ -1,0 +1,3 @@
+root@ubuntu:~/track# git diff
+root@ubuntu:~/track# git diff srujan
+root@ubuntu:~/track# git -diff
